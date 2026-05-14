@@ -4,7 +4,7 @@ SCP: Secret Laboratory için özel bir creature (yaratık) plugin'i.
 
 ## Özellikler
 - Kırmızı blob şeklinde SCP-999-X yaratığı
-- AI kontrol sistemi
+- AI kontrol sistemi [yakında]
 - Spawn mekaniksi
 
 ## Kurulum
