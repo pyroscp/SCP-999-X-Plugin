@@ -13,3 +13,7 @@ SCP: Secret Laboratory için özel bir creature (yaratık) plugin'i.
 
 ## Geliştirici
 pyroscp
+
+
+Discourd = pyro02636
+Steam = Pyro Men Türk
